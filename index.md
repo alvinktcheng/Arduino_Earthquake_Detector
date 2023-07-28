@@ -7,7 +7,7 @@ You should comment out all portions of your portfolio that you have not complete
 <!--- Anything between these symbols will not render on the published site -->
 ```
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| Alvin C | Saratoga High School | Electrical Engkineering | Incoming Junior |
 |:--:|:--:|:--:|:--:|
 | FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
 
