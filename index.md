@@ -31,7 +31,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-For my second milestone, I worked on the software components of my project. After checking that all my wires were connected properly, I 
+For my second milestone, I worked on the software components of my project. After checking that all my wires were connected properly, I installed Arduino and completed the software portion of my project. While I was working on my Arduino Code, one of the problems I noticed was that my accelerometer was not working, since the coordinates on my LCD were not changing when I moved my accelerometer around, which means that I will need to wait to get a new one. The rest of the software seems to be working, since the LCD, LED, buzzer, and the Arduino
 
 # First Milestone
 https://youtu.be/GWjLR_b6VH0
