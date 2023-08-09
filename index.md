@@ -30,6 +30,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 # Second Milestone
+https://www.youtube.com/watch?v=cRGOkb_fa9w
 
 For my second milestone, I worked on the software components of my project. After checking that all my wires were connected properly, I installed Arduino and completed the software portion of my project. While I was working on my Arduino Code, one of the problems I noticed was that my accelerometer was not working, since the coordinates on my LCD were not changing when I moved my accelerometer around, which means that I will need to wait to get a new one. The rest of the software seems to be working, since all of the other parts were able to respond when I ran my code.
 # First Milestone
@@ -173,10 +174,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 |Arduino GY-521 MPU-6050 Accelerometer|Used to track data and serves as the sensor | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |Arduino LCD1602 Module|Displays the values | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |830 Tie Points Solderless Breadboard|Connects the wires/parts|
-|Female-to-Male Dupont Wires|
-|Breadboard Jumper Wires|
-|Arduino Passive Buzzer|
-|LED Light|
+|Female-to-Male Dupont Wires|Connects the breadboard with the other pins|
+|Breadboard Jumper Wires|Connects points within a breadboard or from the breadboard to the Arduino|
+|Arduino Passive Buzzer|Generating Sound|
+|LED Light|Generating Light|
 |
 
 # Other Resources/Examples
