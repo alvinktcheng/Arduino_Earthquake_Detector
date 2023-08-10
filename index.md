@@ -30,12 +30,14 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 # Second Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cRGOkb_fa9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+(https://www.youtube.com/watch?v=cRGOkb_fa9w)
 
 For my second milestone, I worked on the software components of my project. After checking that all my wires were connected properly, I installed Arduino and completed the software portion of my project. While I was working on my Arduino Code, one of the problems I noticed was that my accelerometer was not working, since the coordinates on my LCD were not changing when I moved my accelerometer around, which means that I will need to wait to get a new one. The rest of the software seems to be working, since all of the other parts were able to respond when I ran my code.
 
 # First Milestone
-<iframe width="560" height="315" src="https://youtu.be/GWjLR_b6VH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+(https://youtu.be/GWjLR_b6VH0)
 
 My first milestone was me setting up most of the hardware and making sure all of the parts were working when they were connected. Currently, my LCD, accelerometer, Arduino, LED, and buzzer all light up when the button is pressed. When I first connected all of my wires, my project parts were not turning on when I attatched the Arduino to the battery, so I had to reconnect all of my parts. When I connected all of my parts for a second time, I had to make sure that all of my parts were working as I was connecting the wires, since I did not want my entire circut to fail for a second time. My current design includes my Arduino, the accelerometer (the sensor), A buzzer (buzzes if earthquake is detected), a button, a LED Light, a resistor, a potentiometer, and a LCD display. When I worked on my second design, something I changed to make my design work better was attatching the accelerometer onto a second (smaller) breadboard in order for my accelerometer to not interfere with the connections of the other wires on my main breadboard.
 
