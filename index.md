@@ -9,6 +9,8 @@ For my project, I made a Arduino Earthquake detector using an accelerometer. My 
   
 # Final Milestone
 
+Link: https://youtu.be/EEcSEc_U7DM
+
 For my final milestone, I was able to get my project to completely work. After I recieved the new accelerometer and reconnected the wires, I realized that my accelerometer was not providing any value changes. I was eventually able to find out that this was an error caused by the wire connections and not because of the accelerometer itself. This correction allowed my overall project to function properly. I believe that this was the biggest challenge I faced while working on this project, since this issue took me approximately one entire week to fix.
 
 # Second Milestone
