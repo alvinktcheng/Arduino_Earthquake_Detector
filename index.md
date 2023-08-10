@@ -171,7 +171,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 NOTE: Several of the links provided may include multiple packages of a specific item.
 
-| **Part** | **Note** | **Price** | **Link** |
+| **Part** | **Note** | **Price** | **Link (Amazon)** |
 |:--:|:--:|:--:|:--:|
 |Arduino Mega 2560| Serves as the main 'platform' for computing tasks | $30 | https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=asc_df_B01H4ZLZLQ/?tag=hyprod-20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=17780797385688954248&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-490931309987&th=1 |
 |Arduino GY-521 MPU-6050 Accelerometer|Used to track data and serves as the sensor | $10 | https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B00LP25V1A/ref=asc_df_B00LP25V1A/?tag=hyprod-20&linkCode=df0&hvadid=247487538123&hvpos=&hvnetw=g&hvrand=2275097898170115433&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-407209664611&th=1 |
