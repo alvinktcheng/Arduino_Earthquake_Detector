@@ -1,43 +1,25 @@
 # Arduino Earthquake Detector and Alarm
 For my project, I made a Arduino Earthquake detector using an accelerometer. My project is connected using wires, and it includes an Arduino Mega 2560 with an LCD, accelerometer, LED light, Buzzer, potentiometer, and a resistor. When the accelerometer detects motion, the LED and the buzzer both start blinking, indicating that there is an earthquake.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
-
 | Name | School | Area of Interest | Grade |
 |:--:|:--:|:--:|:--:|
 | Alvin C | Saratoga High School | Electrical Engineering | Incoming Junior
-
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-
+For my final milestone, I was able to get my project to completely work. After I recieved the new accelerometer and reconnected the wires, I realized that my accelerometer was not providing any value changes. I was eventually able to find out that this was an error caused by the wire connections and not because of the accelerometer itself. This correction allowed my overall project to function properly. I believe that this was the biggest challenge I faced while working on this project, since this issue took me approximately one entire week to fix.
 
 # Second Milestone
 
-(https://www.youtube.com/watch?v=cRGOkb_fa9w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRGOkb_fa9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For my second milestone, I worked on the software components of my project. After checking that all my wires were connected properly, I installed Arduino and completed the software portion of my project. While I was working on my Arduino Code, one of the problems I noticed was that my accelerometer was not working, since the coordinates on my LCD were not changing when I moved my accelerometer around, which means that I will need to wait to get a new one. The rest of the software seems to be working, since all of the other parts were able to respond when I ran my code.
 
 # First Milestone
 
-(https://youtu.be/GWjLR_b6VH0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GWjLR_b6VH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My first milestone was me setting up most of the hardware and making sure all of the parts were working when they were connected. Currently, my LCD, accelerometer, Arduino, LED, and buzzer all light up when the button is pressed. When I first connected all of my wires, my project parts were not turning on when I attatched the Arduino to the battery, so I had to reconnect all of my parts. When I connected all of my parts for a second time, I had to make sure that all of my parts were working as I was connecting the wires, since I did not want my entire circut to fail for a second time. My current design includes my Arduino, the accelerometer (the sensor), A buzzer (buzzes if earthquake is detected), a button, a LED Light, a resistor, a potentiometer, and a LCD display. When I worked on my second design, something I changed to make my design work better was attatching the accelerometer onto a second (smaller) breadboard in order for my accelerometer to not interfere with the connections of the other wires on my main breadboard.
 
