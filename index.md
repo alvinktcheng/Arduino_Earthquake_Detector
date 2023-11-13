@@ -5,7 +5,7 @@ For my project, I made a Arduino Earthquake detector using an accelerometer. My 
 |:--:|:--:|:--:|:--:|
 | Alvin C | Saratoga High School | Electrical Engineering | Incoming Junior
 
-![Headstone Image](Bluestamp_Project.jpg)
+![Headstone Image](Bluestamp_Project.jpg) ![20230810_080427 (1)](https://github.com/alvinktcheng/Arduino_Earthquake_Detector/assets/140428143/801b312d-0334-47ae-9a08-53d76c2c5080)
   
 # Final Milestone
 
